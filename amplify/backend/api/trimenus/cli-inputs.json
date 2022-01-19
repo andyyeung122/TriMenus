@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "trimenus",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\andyy\\Documents\\Projects\\React Projects\\Tri-Menu\\trimenus\\amplify\\backend\\api\\trimenus\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
